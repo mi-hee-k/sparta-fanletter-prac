@@ -1,0 +1,31 @@
+{
+  "letters": [
+    {
+      "id": "d3397138-a3a9-4ade-b750-7834423c2134",
+      "nickname": "test",
+      "content": "123",
+      "avatar": null,
+      "writedTo": "카리나",
+      "createdAt": 1703510220797,
+      "userId": "wwwww"
+    },
+    {
+      "id": "e6d13c5c-47d5-447b-9bb1-7d5ac4c54b80",
+      "nickname": "test",
+      "content": "333",
+      "avatar": null,
+      "writedTo": "카리나",
+      "createdAt": 1703510221802,
+      "userId": "wwwww"
+    },
+    {
+      "id": "4e4ca5ee-4332-44bf-af84-74ff37c41a0e",
+      "nickname": "test",
+      "content": "4444313",
+      "avatar": null,
+      "writedTo": "카리나",
+      "createdAt": 1703510223062,
+      "userId": "wwwww"
+    }
+  ]
+}
